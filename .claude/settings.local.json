@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pip install scikit-learn)",
+      "Bash(conda run -n pytorch-gpu pip install scikit-learn)"
+    ]
+  }
+}
